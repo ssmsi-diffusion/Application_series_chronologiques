@@ -1,0 +1,34 @@
+.navbar{display:none !important;}
+
+.tabbable .nav-tabs{display:none !important;}
+
+.boutons-accueil, .btn-back{white-space:normal !important;height:50px;width:100%;border:none;text-decoration:none;border: 1px solid #ccc;margin: 10px 0px;}
+      
+.boutons-accueil:focus{background-color:#3cb1e7 !important;color:#fff;}
+      
+.boutons-accueil:hover{background-color:#3cb1e7 !important;color:#fff;}
+      
+.boutons-accueil.active{background-color:#3cb1e7 !important;color:#fff;}
+      
+.custom-container-fluid{margin:auto 200px !important;margin-top:2% !important;overflow-x:hidden;}
+
+
+@media only screen and (max-width:1300px) {
+ 
+.custom-container-fluid{
+
+margin:0 !important;
+          
+          
+}
+        
+
+}
+      
+
+.texte-descritif{border:1px solid #ccc;padding:10px;}
+      
+.highchart{border:1px solid #ccc !important;margin-bottom:30px;}
+
+
+.highcharts-subtitle{font-weight:normal !important;}
